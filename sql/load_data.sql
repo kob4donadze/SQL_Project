@@ -6,3 +6,11 @@ WITH (
     DELIMITER ','
 );
 
+COPY vegetables(name, min_temp, vegetation_days)
+FROM 'C:/Program Files/PostgreSQL/18/data/Vegetable_requirements.csv'
+WITH (
+    FORMAT csv,
+    HEADER true,
+    DELIMITER ','
+);
+

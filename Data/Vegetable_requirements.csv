@@ -1,0 +1,21 @@
+﻿vegetable_name,minimum_temperature_c,vegetation_period_days(min)
+Tomato,10,70
+Cucumber,10,50
+Potato,7,70
+Onion (dry bulb),5,100
+Cabbage,5,65
+Carrot,5,70
+Bell pepper,10,65
+Eggplant,10,75
+Green beans (bush),10,50
+Lettuce,5,60
+Broccoli,5,60
+Cauliflower,5,55
+Spinach,4,35
+Radish,4,25
+Beetroot,5,55
+Pea,4,60
+Zucchini,10,45
+Pumpkin,10,90
+Garlic,3,180
+Leek,5,100

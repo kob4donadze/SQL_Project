@@ -15,6 +15,5 @@ CREATE TABLE climate_data (
 CREATE TABLE vegetables (
     name VARCHAR(50) PRIMARY KEY,
     min_temp NUMERIC(4,2),
-    max_temp NUMERIC(4,2),
-    growing_months INTEGER
+    vegetation_days INTEGER
 );
